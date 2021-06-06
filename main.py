@@ -1,5 +1,5 @@
 '''
-Bezier Example
+Bezier Example First
 ==============
 
 This example shows a closed Bezier curve computed from a polygon. You
